@@ -123,5 +123,8 @@ See [CHANGELOG.md](CHANGELOG.md)
 [Joi]: https://github.com/hapijs/joi
 [Express]: http://expressjs.com/
 
+## Deploy
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chuyik/LeanCloud-Vue-Boilerplate)
+
 ## License
 [BSD license](http://opensource.org/licenses/bsd-license.php)
